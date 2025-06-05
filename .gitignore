@@ -1,0 +1,4 @@
+.vscode/**
+OUTPUT/**
+build.log
+src/obj/**

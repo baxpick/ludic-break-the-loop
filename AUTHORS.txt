@@ -1,0 +1,43 @@
+// Authors:
+// ---
+
+Naad/Baxpick (@teopl) - code, level and game design, story
+Branho (@brando464) - graphics, music, story, comic "Detective Gvido - Ludic's Disk"
+Lex - english translation for comic "Detective Gvido - Ludic's Disk"
+
+This is modified version made for CPC retrodev 2019.
+
+// ---
+
+
+// Code, libraries and software used:
+// ---
+
+Cpctelera (development branch - future version 1.5)
+Author: ronaldo / Fremos / Cheesetea / ByteRealms
+Link: lronaldo.github.io/cpctelera
+
+Cpctelera Docker Build Environment
+Author: Naad/Baxpick (@teopl)
+Link: https://github.com/baxpick/cpctelera_example
+
+WinCpctelera 
+Author: Arnaud6128
+Link: https://github.com/Arnaud6128/wincpctelera
+
+Arkos traker 2, player source, Disark
+Author: Targhan
+Link: www.julien-nevo.com/arkostracker/
+REMARK: Arkos 2 port by Geco
+
+Retro Game Asset Studio (RGAS)
+Author: Lachlan Keown
+Link: www.cpcwiki.eu/index.php/Retro_Game_Asset_Studio
+
+ZX7
+Author: antoniovillena (ZX7 by Einar Saukas)
+Link: https://github.com/antoniovillena/zx7b
+
+Exomiser
+Author: Magnus Lind
+Link: https://bitbucket.org/magli143/exomizer/wiki/Home
