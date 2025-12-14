@@ -10,9 +10,11 @@ mkdir -p OUTPUT/ENTERPRISE >/dev/null 2>&1
     --folder-src . \
     --folder-output ./OUTPUT/ENTERPRISE \
     --platform enterprise \
+    --image-version development-latest \
     --buildcfg-z80ccflags "-DENTERPRISE"
 
 ./build.sh \
     --folder-src . \
     --folder-output ./OUTPUT/CPC \
-    --platform cpc
+    --platform cpc \
+    --image-version development-latest
